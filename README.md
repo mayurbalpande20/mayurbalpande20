@@ -1,9 +1,27 @@
 <h1 align="center">Hi 👋, I'm Mayur</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate RTL Design and Design Verification Engineer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="mailto:mayurbalpande20@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+</a>
+<a href="https://www.linkedin.com/in/mayur-balpande/" target="blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge" />
+</a>
+<a href="https://www.google.com/search?q=https://www.instagram.com/mayur.balpande/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+<h3 align="left">My Skills & Languages:</h3>
+<p align="left">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Digital%2520Electronics-303030%3Fstyle%3Dfor-the-badge%26logoColor%3Dwhite" alt="Digital Electronics Badge" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Verilog-4285F4%3Fstyle%3Dfor-the-badge%26logo%3Dverilog%26logoColor%3Dwhite" alt="Verilog Badge" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SystemVerilog-4285F4%3Fstyle%3Dfor-the-badge%26logo%3Dsystemverilog%26logoColor%3Dwhite" alt="SystemVerilog Badge" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/UVM-FF69B4%3Fstyle%3Dfor-the-badge%26logoColor%3Dwhite" alt="UVM Badge" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/RTL%2520Design-FF5733%3Fstyle%3Dfor-the-badge%26logoColor%3Dwhite" alt="RTL Design Badge" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C-A8B9CC%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dblack" alt="C Badge" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dcplusplus%26logoColor%3Dwhite" alt="C++ Badge" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Xilinx%2520Vivado-264653%3Fstyle%3Dfor-the-badge%26logoColor%3Dwhite" alt="Xilinx Vivado Badge" />
+</p>
